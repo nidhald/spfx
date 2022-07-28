@@ -1,0 +1,11 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "hello-world-sp-fx-2016-nidhal",
+        "id": "6e2df745-25f8-4cae-8b25-b1d8883f5004",
+        "version": "1.0.0.0"
+    },
+    "paths": {
+        "zippedPackage": "solution/hello-world-sp-fx-2016-nidhal.sppkg"
+    }
+}
